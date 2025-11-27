@@ -1,6 +1,7 @@
 # EX01 Developing a Simple Webserver
 
 ## AIM:
+
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
 
 ## DESIGN STEPS:
